@@ -1,0 +1,12 @@
+streamlit
+PIL
+numpy
+tensorflow.keras.models
+sklearn.preprocessing
+sklearn.model_selection
+matplotlib.pyplot
+pandas
+keras.layers
+keras.models
+keras
+os
